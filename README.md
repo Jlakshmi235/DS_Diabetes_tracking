@@ -7,3 +7,5 @@ python-twitter_test.py - collects tweets using Twitter API of specific user
 preprocessing.py - reads in the collected tweets, cleans and preprocesses it
 
 wordprocessing.py - takes in a txt file, creates bag of words after doing stemming and returns the top 50 frequent words
+
+smmgeo.py - extracting City and State name from place attribute
