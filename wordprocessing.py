@@ -85,7 +85,7 @@ def final_word(filename):
 	return output
 
 #returns the top25frequently words in the dictionary
-def top25FrequentWords(filename):
+def top50FrequentWords(filename):
 	i = 50
 	output = {}
 	result = []
