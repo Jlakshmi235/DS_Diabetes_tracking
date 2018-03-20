@@ -4,7 +4,7 @@ Term long project completed for EECS 510 (Social Media Mining) at Northwestern U
 
 Given below is a flowchart outlining the steps taken towards completing this project.
 <img src="Process image.png"
-     alt="Process Flow Chart" height=70%/>
+     alt="Process Flow Chart" />
 
 
 ### Files uploaded:
