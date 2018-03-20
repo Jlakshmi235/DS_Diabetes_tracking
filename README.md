@@ -1,5 +1,10 @@
 # smmSpr2017
 
+Term long project completed for EECS 510 (Social Media Mining) at Northwestern University, Spring 2017.
+
+Given below is a flowchart outlining the steps taken towards completing this project.
+
+
 tweepy_test.py - collects tweets using Twitter API by tracking certain keywords.
 
 python-twitter_test.py - collects tweets using Twitter API of specific user
