@@ -1,7 +1,9 @@
 # DS_Diabetes_tracking
 
 Term long project completed for EECS 510 (Social Media Mining) at Northwestern University, Spring 2017.
-Project report can be found [here](Diabetes Tracking - Report.pdf)
+
+Project report can be found [here](https://github.com/Jlakshmi235/DS_Diabetes_tracking/blob/master/Diabetes%20Tracking%20-%20Report.pdf)
+
 Given below is a flowchart outlining the steps taken towards completing this project.
 <img src="Process image.png"
      alt="Process Flow Chart" />
